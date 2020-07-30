@@ -1,7 +1,7 @@
 {
   "name": "image-base64-rotate",
   "version": "1.0.0",
-  "description": "",
+  "description": "生成旋转后的 Base64 图片 | generate rotated image base64 in browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
