@@ -1,0 +1,23 @@
+{
+  "name": "image-base64-rotate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postor/image-base64-rotate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/image-base64-rotate/issues"
+  },
+  "homepage": "https://github.com/postor/image-base64-rotate#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
